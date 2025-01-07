@@ -25,4 +25,5 @@ The project includes:
             BioBERT fine-tuning: Token alignment and model configuration for token classification, Training using a data collator
             and monitoring metrics (precision, recall, F1-score), evaluation with metrics, confusion matrix, and qualitative
             analysis of predictions.
-            
+
+For all the three main parts of the project interactive dashborads that show the main results are implemented.
