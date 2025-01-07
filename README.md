@@ -5,7 +5,9 @@ The project includes:
 
     Data exploratory analysis of the dataset for token classification in the anatomical domain.
     
-            Key Steps: Data loading, missing values analysis,Label mapping for NER tags to unify classes (e.g., merging "B-" and              "I-"), Statistical analyses of sentence length, token frequency, and POS (Part-of-Speech) distribution, Visualization             through   word clouds and topic modeling using LDA.
+            Key Steps: Data loading, missing values analysis,Label mapping for NER tags to unify classes (e.g., merging "B-" and
+            "I-"), Statistical analyses of sentence length, token frequency, and POS (Part-of-Speech) distribution, Visualization
+            through   word clouds and topic modeling using LDA.
             
     Application of some Neural Network approaches to evaluate sequential models (LinearSVC, LSTM, BiLSTM, GRU) for token
     classification
